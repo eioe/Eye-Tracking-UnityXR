@@ -1,0 +1,419 @@
+{
+    "m_SelectedDeviceId": "PA7D50NGE5110080G",
+    "m_SelectedPackage": {
+        "deviceId": "PA7D50NGE5110080G",
+        "name": "com.picovr.picoeyetracking1",
+        "processId": 8632,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "PA7D50NGE5110080G",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 3488,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7D50NGE5110080G",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 5383,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7D50NGE5110080G",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 6033,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7D50NGE5110080G",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 6619,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7D50NGE5110080G",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 7038,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7D50NGE5110080G",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 4573,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7D50NGE5110080G",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 5367,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7D50NGE5110080G",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 6244,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7D50NGE5110080G",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 8632,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 30364,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 31924,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 32648,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 3875,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 23331,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 27055,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 28133,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 28880,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 5571,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 6876,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 7915,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 10642,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 11537,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 13996,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 14971,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 15640,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 9069,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210033W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 26351,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 1675,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 3991,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 5009,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 31238,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 32142,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 1171,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 4593,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 6307,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 7671,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 8954,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 12431,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 19834,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 27493,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 5079,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 6510,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 12980,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 14456,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 5641,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 6414,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 8247,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 8973,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 9782,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 10548,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking",
+            "processId": 12100,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 6486,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 7903,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 8592,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 9953,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 11747,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J40DGF8210036W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 14520,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7L10DGF6100042W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 5559,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7L10DGF6100042W",
+            "name": "com.picovr.picoeyetracking1",
+            "processId": 6157,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "device",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
