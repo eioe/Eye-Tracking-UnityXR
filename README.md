@@ -17,7 +17,7 @@
      ![ ](https://github.com/picoxr/Eye-Tracking-UnityXR/blob/main/Screenshots/1.jpeg)
 
 1.  **User Calibration**
-Launch the Tobii User Calibration application
+Launch the Tobii User Calibration application.
 2.  **Eye Tracking**
 The scene is the coordinate system of the eyeball, which is used to view and test the accuracy of the eye-tracking in the coordinate system.
     ![ ](https://github.com/picoxr/Eye-Tracking-UnityXR/blob/main/Screenshots/2.png)
