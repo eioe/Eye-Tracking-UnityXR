@@ -38,3 +38,6 @@ With the relevant functions of eye-tracking, user calibration is preferred. The 
 
 How to enable eye-tracking, please refer to https://sdk.picovr.com/docs/XRPlatformSDK/Unity/en/chapter_eight.html#eye-tracking
 For eye-tracking API, please refer to https://sdk.picovr.com/docs/XRPlatformSDK/Unity/en/chapter_seven.html#eye-tracking-related
+
+The Unity XR Platform SDK (Legacy) v1.2.4 needs to be imported manually. For details about the latest SDK download address and documentation, see the following links:
+https://developer.pico-interactive.com/sdk/index?id=8&device_id=1&platform_id=1
