@@ -36,11 +36,15 @@ The scene can be switched by the controller trigger key or the headset "confirm"
 With the relevant functions of eye-tracking, user calibration is preferred. The Tobii User Calibration application has been preset in the ROM of Pico Neo2 Eye devices and Pico Neo3 Eye devices, as shown in the red box below. At present, automatic recognition of eye calibration data is not supported, so this operation is required when changing users.
     ![ ](https://github.com/picoxr/Eye-Tracking-UnityXR/blob/main/Screenshots/7.jpeg)
 
-How to enable eye-tracking, please refer to 
+How to enable eye-tracking, please refer to:
+
 https://developer-global.pico-interactive.com/docs/unity/en/13136/unity-xr-sdk-EyeTracking/
 
-For eye-tracking API, please refer to 
+For eye-tracking API, please refer to:
+
 https://pdocor.pico-interactive.com/reference/unity/xr/2.05/class_unity_1_1_x_r_1_1_p_x_r_1_1_p_x_r___eye_tracking.html
 
-The Pico Unity Integration SDK v2.0.5needs to be imported manually. For details about the latest SDK download address and documentation, see the following links:
+
+The Pico Unity Integration SDK v2.0.5 needs to be imported manually. For details about the latest SDK download address and documentation, see the following links:
+
 https://developer-global.pico-interactive.com/sdk?deviceId=1&platformId=1&itemId=12
